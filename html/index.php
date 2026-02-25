@@ -272,6 +272,11 @@
                 <i class="menu-icon tf-icons bx bx-detail"></i>
                 <div data-i18n="Form Elements">Register</div>
               </a>
+
+              <a href="auth-register-basic.html" class="menu-link">
+                <i class="menu-icon tf-icons bx bx-detail"></i>
+                <div data-i18n="Form Elements">Register</div>
+              </a>
              
             </li>
             <li class="menu-item">
